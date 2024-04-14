@@ -1,0 +1,10 @@
+.box{
+    height: 100px;
+    width:200px;
+    border:1px solid black;
+    margin: 4px; 
+    background-color: antiquewhite;
+    text-align: center;
+    display: flex;
+    flex-direction: ;
+}

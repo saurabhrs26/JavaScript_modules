@@ -1,0 +1,37 @@
+again there is a way to concate or print the statement in console.log
+i.e console.log("Sum is",a+b);
+o/p: Sum is 7
+
+In javascript if we compare values of a & b such as
+a=5 and b='5' 
+a==b
+o/p:true
+
+reason: javascript will explicitly convert this string into number and then it will compare it
+
+else if condition in javascript
+if(condition 1){
+    execute something
+}
+else if(condition 2)
+{
+    execute something
+}
+.
+.
+.
+else{
+    default statement
+}
+
+ternary operator
+
+ let a=3;
+let result=a>4?"number greater than four":"number less than four";
+console.log(result);
+op:
+  number less than four
+
+  Note---> when we use prompt we get a dialog box in which we need to enter a value
+
+  

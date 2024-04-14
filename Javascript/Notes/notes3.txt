@@ -1,0 +1,5 @@
+Strings in js
+to access specific character in javascript we need to use stringVariableName[indexNumber]
+
+Template Literals in javascript
+template literals are the special type of strings generally enclosed in backtick `` 

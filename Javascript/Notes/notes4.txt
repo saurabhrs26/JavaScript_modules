@@ -1,0 +1,12 @@
+Arrays in javascript 
+
+methods in Arrays
+1. push()
+2. pop()
+3. toString()
+4. concat: we can concat more than two array like arr1.concat(arr2,arr3,.....,arr n)------> here order remains the same as in result the elements of arr1 will be printed then arr2 and then arr3
+5. unshift()---> this method work as same push() but the elements are added to the beginning
+6. shift()---> this method is used to delete the first element from the array
+7. slice(startIndex,endIndex) ----> this method is used to extract the part of array with the help of start and end index .This method change the original array
+8. splice(startIndex,deleteIndex,newElement) ----> this method delete the element from our given index and then add the new element which we provide
+if we dont want to delete any thing from array then we need to keep the count zero for deleteIndex. Changes will be made in the original array

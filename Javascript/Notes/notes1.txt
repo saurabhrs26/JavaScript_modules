@@ -1,0 +1,18 @@
+const student={
+    name:"Saurabh",
+    rollNo:4221,
+    age:22,
+    isEmployed:false
+} 
+
+this is the object named "student" using the object literal syntax.
+properties of the object can be accessed in two ways:
+1. By dot operator
+2. By square brackets
+
+1. By dot operator:
+                  name can be accessed as student.name
+2. By square brackets:
+                  roll no can be accessed as student[rollNo]
+
+though the content of the object cant change but properties can be change value of name age rollNo isEmployed can be changed
